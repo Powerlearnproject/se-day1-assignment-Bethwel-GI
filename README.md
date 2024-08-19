@@ -70,3 +70,5 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Vague prompt: 'Tell me about women'.
 Better prompt:'Tell me about women above the age of 30 who are married'
 
+The second prompt is more specific and the AI will give more accurate response.
+
